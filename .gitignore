@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# docker volumes & local DB
+pgdata/
+metabase-data/
+.env.local
+
+# codespaces/devcontainer
+.vscode/
